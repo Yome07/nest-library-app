@@ -1,0 +1,15 @@
+[
+    {
+      "id": 1,
+      "userId": 1,
+      "bookId": 1,
+      "isRead": true
+    },
+    {
+      "id": 2,
+      "userId": 2,
+      "bookId": 2,
+      "isRead": false
+    }
+  ]
+  

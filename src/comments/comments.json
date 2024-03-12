@@ -1,0 +1,21 @@
+[
+    {
+      "id": 1,
+      "text": "Un livre magnifique!",
+      "userId": 1,
+      "bookId": 1
+    },
+    {
+      "id": 2,
+      "text": "Je recommande vivement ce livre.",
+      "userId": 2,
+      "bookId": 1
+    },
+    {
+      "id": 3,
+      "text": "Un classique incontournable.",
+      "userId": 1,
+      "bookId": 2
+    }
+  ]
+  

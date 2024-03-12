@@ -1,0 +1,24 @@
+[
+    {
+      "id": 1,
+      "title": "Le Petit Prince",
+      "author": "Antoine de Saint-Exupéry",
+      "publisher": "Gallimard",
+      "publicationDate": "1943-04-06"
+    },
+    {
+      "id": 2,
+      "title": "Les Misérables",
+      "author": "Victor Hugo",
+      "publisher": "Hachette",
+      "publicationDate": "1862-03-15"
+    },
+    {
+      "id": 3,
+      "title": "L'Étranger",
+      "author": "Albert Camus",
+      "publisher": "Flammarion",
+      "publicationDate": "1942-06-01"
+    }
+  ]
+  
